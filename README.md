@@ -1,5 +1,8 @@
 # OsEngine
+Архитектура проекта OSEngine в Enterprise Architect  
+https://drive.google.com/drive/folders/1FA7I1rVR9tt-RobxoRGPnM7gPgNIhlsy
 
+[_Lua Quik {Tarantool} & {Facebook.Tourch} for Enterprise Architect] Исходный код и UML-диаграмма классов  
 https://drive.google.com/drive/folders/19Hykk1knOzqPPVhdEJ0CJtDeHV-v-3Gu
 
 Подключение OsEngine к Квик при помощи LUA коннектора  
