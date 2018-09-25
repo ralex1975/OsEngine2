@@ -1,5 +1,7 @@
 # OsEngine
 
+https://drive.google.com/drive/folders/19Hykk1knOzqPPVhdEJ0CJtDeHV-v-3Gu
+
 Подключение OsEngine к Квик при помощи LUA коннектора  
 https://www.youtube.com/watch?v=bInNPjChvEg
 
