@@ -3,6 +3,9 @@
 Подключение OsEngine к Квик при помощи LUA коннектора  
 https://www.youtube.com/watch?v=bInNPjChvEg
 
+Trailing Stop в OsEngine  
+https://www.youtube.com/watch?v=jCDg081ayJY
+
 ![oslogo250](https://cloud.githubusercontent.com/assets/26077466/23395381/5545b688-fd9f-11e6-8db9-c8e8944a8cc2.png)
 
 # Open Source Algo Trading Platform
